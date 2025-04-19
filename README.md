@@ -34,22 +34,40 @@
 
 ---
 
-### 📫 How to Reach Me
-- 💌 **Email:** [abhijeet.upadhayay88@gmail.com](mailto:abhijeet.upadhayay88@gmail.com)
-- 💼 **LinkedIn:** [[linkedin.com/in/abhijeet-upadhayay](https://linkedin.com/in/abhijeet-upadhayay)](https://www.linkedin.com/in/abhijeet-upadhyay-689178191/) *(if available)*
-- 🌐 **Portfolio:** [Coming Soon...]*
+- **Languages:** JavaScript, TypeScript, Node.js
+- **Databases:** MongoDB, PostgreSQL
+- **Frameworks:** React, Express, Next.js, Redux
+- **Tools:** Git, GitHub, Webpack, Babel, Docker
+- **Cloud:** AWS (S3, Lambda, EC2, RDS)
+
+## 📝 Featured Projects
+Here are a few of my favorite projects:
+
+### [🔗 Timer-App]([ProjectLink](https://github.com/abhijeet125/Timer-App))
+> Short description of the project, technologies used, and what you learned.
+
+### [🔗 Task Management]([ProjectLink](https://github.com/abhijeet125/Task-Management))
+> Short description of the project, technologies used, and what you learned.
+
+## 📫 Reach Me
+- Email: [abhijeet.upadhayay88@gmail.com](mailto:abhijeet.upadhayay88@gmail.com)
+- LinkedIn: [LinkedIn Profile](LinkedInURL)
+- Twitter: [@yourusername](TwitterURL)
+
+## 💻 Currently Working On
+- **Open-Source:** Contributing to libraries like React, TypeScript, and MERN stack repositories.
+- **Startups:** Collaborating with startups on React-based applications.
+
+## 👯 Looking to Collaborate On
+- Open-source projects
+- Startups or innovative ideas in the **React** and **MERN** ecosystem.
+- Freelance or part-time React development.
+
+## 🤝 How to Get Involved
+- **Contribute to my open-source projects!**
+- Share any feedback or ideas on any of my repositories.
+- Feel free to drop a message on any of my repositories if you'd like to collaborate!
 
 ---
-
-### 🧠 Goals for 2025
-- 🚀 Land a top-tier Front-End / Full-Stack Developer role
-- 👨‍🏫 Share React + TypeScript content on GitHub & LinkedIn
-- 🌍 Contribute to Open Source & collaborate with global teams
-
----
-
-### 🖤 Support & Collaboration
-If you like my work or want to collaborate, feel free to connect! Let's build something impactful together 🙌
-
 
 
