@@ -51,7 +51,7 @@ Here are a few of my favorite projects:
 
 ## 📫 Reach Me
 - Email: [abhijeet.upadhayay88@gmail.com](mailto:abhijeet.upadhayay88@gmail.com)
-- LinkedIn: [LinkedIn Profile](LinkedInURL)
+- LinkedIn:(https://www.linkedin.com/in/abhijeet-upadhyay-689178191/))
 - Twitter: [@yourusername](TwitterURL)
 
 ## 💻 Currently Working On
