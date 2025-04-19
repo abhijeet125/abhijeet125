@@ -28,15 +28,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet-upadhayay&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-upadhayay&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet125&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet125&theme=radical" width="450"/>
 </p>
 
 ---
 
 ### 📫 How to Reach Me
 - 💌 **Email:** [abhijeet.upadhayay88@gmail.com](mailto:abhijeet.upadhayay88@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/abhijeet-upadhayay](https://linkedin.com/in/abhijeet-upadhayay) *(if available)*
+- 💼 **LinkedIn:** [[linkedin.com/in/abhijeet-upadhayay](https://linkedin.com/in/abhijeet-upadhayay)](https://www.linkedin.com/in/abhijeet-upadhyay-689178191/) *(if available)*
 - 🌐 **Portfolio:** [Coming Soon...]*
 
 ---
