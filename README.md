@@ -4,7 +4,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💻 I have **1+ years of experience** in **React.js**, building scalable and user-friendly web applications
+- 💻 I have **2+ years of experience** in **React.js**, building scalable and user-friendly web applications
 - 🔭 Currently working on **freelance projects** and contributing to client-side architecture
 - 🌱 Learning **Full-Stack Development** with **MERN + TypeScript + AWS**
 - 🧠 Practicing **System Design**, **Data Structures**, and **AI-enhanced apps**
